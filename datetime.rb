@@ -14,7 +14,7 @@ mytime = Time.new(2023,9,19,8,52,37,'+06:00')
 puts mytime
 puts Time.now
 puts mytime.hour
-puts mytime.min
 puts mytime.sec
+puts mytime.min
 
 
